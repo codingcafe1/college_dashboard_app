@@ -1,6 +1,6 @@
-# flutter_image_slider_app
+# flutter_college_dashboard_app
 
-Flutter 2 Android, Web & iOS Image Slider Carousel App from Coding Cafe
+Flutter 2 Android, Web & iOS College Dashboard App from Coding Cafe
 
 ## Join Complete Course Here
 
